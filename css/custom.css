@@ -27,3 +27,11 @@ body {
   font-family: "Lato", sans-serif;
 }
 
+#intro {
+  margin-top: -58.59px;
+  height: 50vh !important;
+}
+
+.navbar .nav-link {
+  color: #fff !important;
+}
